@@ -175,7 +175,7 @@ WHERE MONTH(Order_Date) NOT IN (12));
             Analyser les ventes et les profits par segments de clients.
 
    - Images de visualisations:
-        Vous trouverez un fichier PDF [Nom du fichier ou description](./E-commerce_analyse/visualisation.pdf) dans le dépôt contenant tous les graphes.
+        Vous trouverez un fichier [PDF](/visualisation.pdf) dans le dépôt contenant tous les graphes.
         
 ## Contributeurs
 - [Younes ZIAT](https://github.com/younes9888) - Analyste de données
