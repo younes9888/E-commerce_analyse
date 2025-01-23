@@ -175,8 +175,63 @@ WHERE MONTH(Order_Date) NOT IN (12));
             Analyser les ventes et les profits par segments de clients.
 
    - Images de visualisations:
-        
+     ![visualisation_pages-to-jpg-0001](https://github.com/user-attachments/assets/0cac76af-a044-4a93-afba-a0d5964ee57e)
+     ![visualisation_pages-to-jpg-0002](https://github.com/user-attachments/assets/a589ad01-3a83-4cfc-a61b-18638d745092)
+     ![visualisation_pages-to-jpg-0003](https://github.com/user-attachments/assets/b248ef39-5a35-4ffe-83e3-b84b38d1a078)
+     ![visualisation_pages-to-jpg-0004](https://github.com/user-attachments/assets/678a85bf-3803-4087-bb86-8a0318e111cd)
 
+# Remarques
+
+### Ventes mensuelles (Graphique en courbes)
+Les mois de novembre et décembre enregistrent les chiffres de ventes les plus élevés, probablement en raison de la période des fêtes de fin d'année. Septembre affiche des ventes modérées, tandis que les mois d'avril, mai, juin et juillet présentent des performances moyennes. Les mois de janvier et février enregistrent les chiffres de ventes les plus faibles, ce qui pourrait être lié à une faible demande en début d'année.
+
+### Conseil d'amélioration
+    Identifier les facteurs saisonniers ou promotionnels influençant les pics de novembre et décembre pour répliquer ces stratégies sur d'autres périodes.
+    Envisager des campagnes marketing ciblées pour dynamiser les ventes durant les mois de faible activité (janvier et février).
+
+### Répartition des ventes par catégorie de produits (Graphique en secteurs/pie chart)
+Les catégories "Technology", "Furniture" et "Office Supplies" se partagent les ventes globales avec respectivement 36,4 % (742 000 $), 32,3 % (836 154 $) et 31,3 % (719 047 $).
+
+### Conseil d'amélioration
+    Analyser les performances spécifiques de chaque catégorie pour déterminer les produits les plus performants et les leviers de croissance.
+    Évaluer si des catégories moins performantes pourraient être développées ou promues pour équilibrer davantage la répartition des ventes.
+
+### Ventes par sous-catégories (Graphique en barres)
+Les sous-catégories "Chairs" et "Phones" dominent les ventes. À l'inverse, les sous-catégories comme "Fasteners", "Labels", "Envelopes" et "Art" affichent les ventes les plus faibles.
+
+### Conseil d'amélioration
+    Investir dans les sous-catégories les plus performantes pour consolider leur croissance.
+    Revoir l'assortiment, les prix ou les promotions pour les sous-catégories les moins performantes afin d’améliorer leur attractivité.
+
+### Total de profit par mois (Graphique en courbes)
+Les mois de décembre, novembre et août génèrent les profits les plus élevés. Le mois de mars affiche un profit modéré, tandis que janvier et février se caractérisent par des profits faibles.
+
+### Conseil d’amélioration
+    Corréler les profits avec les coûts opérationnels et les stratégies de prix pour maximiser les bénéfices sur les périodes à forte demande.
+    Élaborer des promotions stratégiques en début d’année pour stimuler les ventes et améliorer les profits.
+
+### Profit par catégorie (Graphique en secteurs/pie chart)
+Les catégories "Technology" et "Office Supplies" dominent avec respectivement 50,8 % (145 455 $) et 42,8 % (122 491 $) des profits totaux. La catégorie "Furniture" enregistre un profit limité à 18 451 $, représentant seulement 6,4 % du profit global.
+
+### Conseil d’amélioration
+    Revoir la stratégie de pricing et les coûts associés à la catégorie "Furniture" pour améliorer sa rentabilité.
+    Augmenter les investissements marketing pour "Technology" et "Office Supplies", qui montrent un fort potentiel.
+
+### Profit par sous-catégorie (Graphique en barres)
+Les sous-catégories "Copiers", "Phones" et "Accessories" réalisent les profits les plus élevés. "Papers", "Binders" et "Chairs" génèrent des profits moyens, tandis que la sous-catégorie "Tables" affiche un profit négatif.
+
+### Conseil d’amélioration
+    Optimiser l’offre pour les sous-catégories à profit moyen afin d’augmenter leur contribution globale.
+
+### Ventes et profit par segment (Graphique en barres groupées)
+    Le segment "Consumer" enregistre 1 161 401 $ de ventes et 134 119 $ de profit, représentant le segment le plus performant.
+    Le segment "Corporate" génère 706 164 $ de ventes et 91 979 $ de profit.
+    Le segment "Home Office" affiche 429 653 $ de ventes et 60 299 $ de profit.
+
+### Conseil d’amélioration
+    Développer des stratégies de fidélisation et d'acquisition ciblées pour le segment "Consumer" afin de maintenir et renforcer sa position dominante.
+    Identifier des opportunités pour augmenter la rentabilité des segments "Corporate" et "Home Office", tels que des offres adaptées ou des programmes promotionnels spécifiques.
+  
         
 ## Contributeurs
 - [Younes ZIAT](https://github.com/younes9888) - Analyste de données
